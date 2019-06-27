@@ -5,6 +5,11 @@
 npm install
 ```
 
+### Compiles and hot-reloads Vuepress for development
+```
+npm run docs:dev
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
